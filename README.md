@@ -8,7 +8,8 @@ This repo lets you deploy your own **free n8n automation server** on Railway wit
 
 Click below to deploy on Railway:
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?repository=https://github.com/SKABDULAHMED8/n8n-railway-deploy&ref=main)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?repository=https://github.com/SKABDULAHMED8/n8n-railway-deploy)
+
 
 
 ---
